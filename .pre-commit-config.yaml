@@ -31,6 +31,6 @@ repos:
         args: [--mapping, '4', --sequence, '4', --offset, '0']
 
 -   repo: https://github.com/codespell-project/codespell
-    rev: v2.3.0
+    rev: v2.4.1
     hooks:
     -   id: codespell
